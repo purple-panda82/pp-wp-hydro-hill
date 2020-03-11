@@ -1,0 +1,87 @@
+/* TYPOGRAPHY */
+/* MAP CLICK SECTION */
+
+/* HOME PAGE */
+
+/* ABOUT US PAGE */
+
+/* FEED CHART PAGE */
+
+/* TRADING HOURS PAGE */
+
+/* CONTACT US PAGE */
+
+/* PAGE LAYOUT */
+/* HEADER SECTION */
+div.header-menus {
+	height: auto;
+	padding-right: 4.9333em;
+}
+.header-dimensions {
+	padding-top: 3.9333em;
+}
+
+.marketing-message {
+	max-width: 100%;
+	margin-top: 2.6em;
+}
+div.header-menus {
+	height: auto;
+	padding-right: 4.9333em;
+}
+.header-dimensions {
+	padding-top: 3.9333em;
+}
+
+.marketing-message {
+	max-width: 56.2em;
+	margin-top: 2.6em;
+}
+
+div.row-cta {
+	align-items: center;
+}
+
+hr.my-3 {
+	font-size: 4px;
+	width: 30.6em;
+	border-top: 4px solid rgb(141,198,63) !important;
+	margin-top: 2.8666em;
+	margin-bottom: 2.6em;
+}
+
+/* FOOTER SECTION */
+footer.footer-bottom div.container div.row {
+	margin-bottom: 5.333em;
+}
+section#custom_html-3 {
+	padding-left: 1em;
+}
+section#nav_menu-2 {	padding-left: 4.4666em;
+}
+section#custom_html-3 div.contact-div a img.gumtree-icon-footer {
+	margin-right: 1.4666em !important;
+}
+
+section#custom_html-4 {
+	padding-left: 4.666em;
+}
+
+section#custom_html-4 a.trading-hours-btn {
+	width: 22.666em;
+	margin-left: -2em;
+	margin-right: -2em;
+	padding: .5em 1em;
+}
+
+/* MAP CLICK SECTION */
+
+/* HOME PAGE */
+
+/* ABOUT US PAGE */
+
+/* FEED CHART */
+
+/* TRADING HOURS PAGE */
+
+/* CONTACT US PAGE */

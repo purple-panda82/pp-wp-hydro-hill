@@ -1,0 +1,126 @@
+/* TYPOGRAPHY */
+body {
+	font-size: 14px;
+	box-sizing: border-box;
+}
+
+/* HEADER NAVIGATIONS */
+
+.social-media-breaker {
+    font-size: 0.9333em;
+}
+
+.topnav a {
+    color: white;
+    text-decoration: none;
+    font-size: 0.9333em;
+}
+
+/* HEADER JUMBOTRON */
+.welcome-message {
+    font-size: 1.6em;
+}
+
+.marketing-message {
+    font-size: 4.2666em;
+}
+
+.row-cta p {
+    font-size: 1.333em;
+}
+
+.row-cta p a i {
+    color: #ffffff;
+    font-size: 3.133em;
+    text-transform: uppercase;
+}
+
+/* FOOTER WIDGETS */
+h3.footer-title {
+	font-size: 1.4em;
+}
+
+a.footer-nav.contact-links,
+ul#menu-secondary li.menu-item a, div.textwidget table tbody tr td {
+	font-size: 1.4em;
+}
+
+a.footer-nav.contact-links i {
+	font-size: 1.4em;
+	padding-right: 1.2em;
+}
+
+/* PAGE LAYOUT */
+/* HEADER SECTION */
+div.header-menus {
+	height: auto;
+	padding-right: 4.9333em;
+}
+.header-dimensions {
+	padding-top: 3.9333em;
+}
+
+.marketing-message {
+	max-width: 100%;
+	margin-top: 2.6em;
+}
+div.header-menus {
+	height: auto;
+	padding-right: 4.9333em;
+}
+.header-dimensions {
+	padding-top: 3.9333em;
+}
+
+.marketing-message {
+	max-width: 56.2em;
+	margin-top: 2.6em;
+}
+
+div.row-cta {
+	align-items: center;
+}
+
+hr.my-3 {
+	font-size: 4px;
+	width: 30.6em;
+	border-top: 4px solid rgb(141,198,63) !important;
+	margin-top: 2.8666em;
+	margin-bottom: 2.6em;
+}
+
+/* FOOTER SECTION */
+footer.footer-bottom div.container div.row {
+	margin-bottom: 5.333em;
+}
+section#custom_html-3 {
+	padding-left: 1em;
+}
+section#nav_menu-2 {	padding-left: 4.4666em;
+}
+section#custom_html-3 div.contact-div a img.gumtree-icon-footer {
+	margin-right: 1.4666em !important;
+}
+
+section#custom_html-4 {
+	padding-left: 4.666em;
+}
+
+section#custom_html-4 a.trading-hours-btn {
+	width: 22.666em;
+	margin-left: -2em;
+	margin-right: -2em;
+	padding: .5em 1em;
+}
+
+/* MAP CLICK SECTION */
+
+/* HOME PAGE */
+
+/* ABOUT US PAGE */
+
+/* FEED CHART */
+
+/* TRADING HOURS PAGE */
+
+/* CONTACT US PAGE */
